@@ -1,6 +1,6 @@
 # Weather Simulation
 
-Weather Simulation using Wiener Brown Process in Flutter
+Weather Simulation using Markov's Chain in Flutter
 
 ## Documentation
 
