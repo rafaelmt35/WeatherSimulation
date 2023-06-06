@@ -1,16 +1,11 @@
-# weather_simulation
+# Weather Simulation
 
-A new Flutter project.
+Weather Simulation using Wiener Brown Process in Flutter
 
-## Getting Started
+## Documentation
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/rafaelmt35/WeatherSimulation/assets/99629720/64ca00a9-8495-4b5a-9c7a-fec37474ee5a" width="200" height="400">
+<img src="https://github.com/rafaelmt35/WeatherSimulation/assets/99629720/1c80fdcc-f4d7-41d1-af36-d3c6079f5af9" width="200" height="400">
+<img src="https://github.com/rafaelmt35/WeatherSimulation/assets/99629720/57eef09e-c36e-4173-bfd1-f673a3896487" width="200" height="400">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
